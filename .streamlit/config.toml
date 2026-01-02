@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#D72638"               # Bold red for accents (buttons, highlights)
+backgroundColor="#FFFFFF"           # Pure white background
+secondaryBackgroundColor="#F8F8F8"  # Light grey for sidebar and widgets
+textColor="#202124"                 # Dark grey for strong readability
+font="sans serif"

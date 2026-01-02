@@ -1,0 +1,16 @@
+Feature,Chi2_Statistic,Degrees_of_Freedom,P_Value,Cramers_V
+family_history,39329.8246,1,0.0,0.3668
+care_options,25215.1047,2,0.0,0.2937
+Gender,9179.5411,1,0.0,0.1772
+Continent,6965.6,5,0.0,0.1544
+mental_health_interview,2805.797,2,0.0,0.098
+self_employed,432.2649,2,0.0,0.0385
+Growing_Stress,31.7545,2,0.0,0.0104
+Coping_Struggles,29.1113,1,0.0,0.01
+Mental_Health_History,13.561,2,0.001136,0.0068
+Days_Indoors,8.7947,4,0.066442,0.0055
+Occupation_Category,6.8652,1,0.008789,0.0048
+Mood_Swings,5.2364,2,0.072935,0.0042
+Work_Interest,4.5128,2,0.104725,0.0039
+Social_Weakness,1.5815,2,0.453511,0.0023
+Changes_Habits,1.4376,2,0.487329,0.0022

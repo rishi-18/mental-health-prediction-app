@@ -105,7 +105,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.markdown(
         "<div style='text-align: center;'>"
-        "<a href='https://github.com/n1lays1ngh' target='_blank'>"
+        "<a href='https://github.com/rishi-18' target='_blank'>"
         "<img src='https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white'>"
         "</a></div>",
         unsafe_allow_html=True
@@ -114,7 +114,7 @@ with col1:
 with col2:
     st.markdown(
         "<div style='text-align: center;'>"
-        "<a href='https://www.linkedin.com/in/nilay-singh-796808276/' target='_blank'>"
+        "<a href='https://www.linkedin.com/in/rishi-gupta-8113531b3/' target='_blank'>"
         "<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>"
         "</a></div>",
         unsafe_allow_html=True
